@@ -1,7 +1,5 @@
 # TGH / LA Blockchain Week Hackathon Oct. 13-16 2019
 
-### Tentative Draft Schedule, to be updated daily: ### 
-
 **Oct. 13th**
 
 - *10am:*  arrival & check in, team alignment
@@ -36,7 +34,7 @@ respectful of the workspace
 - Monarch:  100K Tokens 
 - Coinmine: 1 Desktop mining rig (mine BTC, ETH, etc. at home push of a button)
 - and more…
-- Bounties
+
 
 
 
