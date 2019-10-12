@@ -1,5 +1,7 @@
 # TGH / LA Blockchain Week Hackathon Oct. 13-16 2019
 
+
+
 **Oct. 13th**
 
 - *10am:*  arrival & check in, team alignment
