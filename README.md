@@ -2,7 +2,7 @@
 
 
 
-**Oct. 13th**a
+**Oct. 13th**
 
 - *10am:*  arrival & check in, team alignment
 - *11am:*  demos (Casper, Ownera, Hyperledger, etc.), pick projects to build, assign teams
